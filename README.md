@@ -1,10 +1,11 @@
 # gb_lesson
-## Hello qwer
 
+## действия для дз: 
 
-**hello world!**
-
-1
-2
-3
-4
+https://github.com/rover131/gb_lesson.git
+делаем clone или форк
+создаем новую ветку
+изменяем в ветке файл README
+комит
+пуш
+отправляем скриншот на платформу
