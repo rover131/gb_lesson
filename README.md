@@ -3,8 +3,8 @@
 
 ___Авторизация___
 
-Привязка почты - git config --global user.email "Vladislav..."
-Указание имени git config --global user.name "Vladislav"
+* Привязка почты - git config --global user.email "Vladislav..."
+* Указание имени git config --global user.name "Vladislav"
 * git version - проверка работоспособности git
 
 ### **Консольные команды:**
